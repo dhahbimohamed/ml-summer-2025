@@ -9,6 +9,24 @@ This repo documents everything I'm learning — from Python-based data tools to 
 **Start:** June 28, 2025  
 **End:** October 31, 2025  
 **Hours/day:** ~2 hours (daily practice + ML content)
+---
+
+## ✅ My Goals
+
+- Build real ML projects with confidence
+- Prepare for my master's in AI
+- Strengthen my math, Python, and ML fundamentals
+- Create a public learning portfolio on GitHub
+
+---
+
+## 🛠 Tools
+
+- Python 3.10+
+- Jupyter Notebook / Colab
+- NumPy, Pandas, Matplotlib
+- Scikit-learn
+- GitHub for version control
 
 ---
 
